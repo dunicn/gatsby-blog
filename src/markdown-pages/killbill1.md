@@ -1,6 +1,6 @@
 ---
 title: "Kill Bill: Volume 1"
-date: "2017-08-10"
+date: "2021-03-11"
 ---
 
 ### Plot
@@ -16,3 +16,6 @@ The Bride awakens from her four-year coma and is horrified to find that she is n
 Resolving to kill Bill and the other Deadly Vipers, the Bride picks her first target: O-Ren Ishii, now the leader of the Tokyo yakuza. O-Ren's parents were murdered by the yakuza when she was a child; she took vengeance on the yakuza boss and replaced him after training as an elite assassin. The Bride travels to Okinawa, Japan, to obtain a sword from legendary swordsmith Hattori Hanzō, who has sworn never to forge a sword again. After learning that her target is Bill, his former student, he relents and crafts his finest sword for her.
 
 At a Tokyo restaurant, the House of Blue Leaves, the Bride defeats O-Ren's elite squad of fighters, the Crazy 88, and her bodyguard, schoolgirl Gogo Yubari. She and O-Ren duel in the restaurant's Japanese garden; the Bride gains the upper hand and slices the top of her head off with a sword stroke. She tortures Sofie Fatale, O-Ren's assistant, for information about Bill, and leaves her alive as a threat. Bill asks Sofie if the Bride knows that her daughter is alive.
+
+
+

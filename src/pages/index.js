@@ -11,7 +11,7 @@ const BlogLink = styled(Link)`
 
 const BlogTitle = styled.h3`
   margin-bottom: 20px;
-  color: blue;
+  color: #8D021F;
 `
 
 export default ({ data }) => {
@@ -46,7 +46,6 @@ export const query = graphql`
         node {
           id
           frontmatter {
-            description
             title
             date
           }
