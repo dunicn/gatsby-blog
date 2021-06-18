@@ -5,7 +5,7 @@ date: "2021-03-11"
 
 ### Plot
 
-IA woman in a wedding dress, the Bride, lies wounded in a chapel in El Paso, Texas, having been attacked by the Deadly Viper Assassination Squad. She tells their leader, Bill, that she is pregnant with his baby just before he shoots her in the head.
+A woman in a wedding dress, the Bride, lies wounded in a chapel in El Paso, Texas, having been attacked by the Deadly Viper Assassination Squad. She tells their leader, Bill, that she is pregnant with his baby just before he shoots her in the head.
 
 Four years later, having survived the attack, the Bride goes to the home of Vernita Green, planning to kill her. Both women were members of the Deadly Vipers, which has since disbanded; Vernita now leads a normal suburban family life. They engage in a knife fight, but are interrupted by the arrival of Vernita's young daughter, Nikki. The Bride agrees to meet Vernita at night to settle the matter, but when Vernita tries to surprise the Bride with a pistol hidden in a box of cereal, the Bride throws a knife into Vernita's chest, killing her. Nikki witnesses the killing, and the Bride offers her a chance to avenge her mother's death when she grows up, should she choose to do so.
 
